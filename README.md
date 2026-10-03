@@ -2,7 +2,7 @@
 
 A machine learning project for predicting diabetes complication risk using patient health and lifestyle data.
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on building a machine learning model to predict the complication risk associated with diabetes based on patient-related features.
 
@@ -17,7 +17,7 @@ The workflow includes:
 - Model evaluation
 - Prediction generation
 
-## 📊 Dataset
+## Dataset
 
 The dataset contains patient information such as:
 
@@ -39,7 +39,7 @@ The target variable is:
 
 `Complication_Risk`
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -49,7 +49,7 @@ The target variable is:
 - Scikit-learn
 - Jupyter Notebook
 
-## 🔄 Machine Learning Workflow
+##  Machine Learning Workflow
 
 Data Collection  
 ↓  
@@ -67,7 +67,7 @@ Model Evaluation
 ↓  
 Risk Prediction
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 diabetes-risk-prediction-ml/
